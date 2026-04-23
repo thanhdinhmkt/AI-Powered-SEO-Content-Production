@@ -86,6 +86,20 @@ scripts/
 
 ---
 
+## Playbook & SOP
+
+The full AI-Powered SEO Content Production Playbook is in [`PLAYBOOK.md`](./PLAYBOOK.md).
+
+It includes:
+- 5-phase production SOP with every recommendation source-cited
+- **Where experts disagree** (4 examples with position taken)
+- **What I rejected and why** (2 ideas cut from the playbook)
+- **My original ideas** (the Cite-Chain Architecture)
+- **Weaknesses of this playbook** (honest about what's untested)
+- **Who I would NOT recommend following and why**
+
+---
+
 ## How to Run the Transcript Fetcher
 
 ```bash
